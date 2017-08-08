@@ -3,10 +3,9 @@ Este es un ejemplo para el repositorio
 FUNCION getUser(id: entero):cadena
 code line1:
 
-code line2
-
-code Line3
-code line 4
-code line 5
+codeLine2
+codeLine3
+codeLine4
+codeLine5
 
 FIN FUNCION
